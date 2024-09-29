@@ -44,11 +44,11 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM. 
 
 ### Divisão de Papéis
 
-A divisão de papéis dentro de nossa equipe, que utilizará o método ágil SCRUM como base para definir os processos de desenvolvimento, é fundamental para garantir a eficiência e a clareza nas responsabilidades. Por isso, a equipe está organizada da seguinte forma:
-• Scrum Master: [Ariane Moura].
-• Product Owner: [Raphael Rodrigues].
-• Equipe de Desenvolvimento: [Ariane Moura, Alexsander, Leticia, Raphael, Vinicius, Breno Marques, Marytom].
-• Equipe de Design: [Ariane Moura, Raphael Rodrigues].
+A divisão de papéis dentro de nossa equipe, que utilizará o método ágil SCRUM como base para definir os processos de desenvolvimento, é fundamental para garantir a eficiência e a clareza nas responsabilidades. Por isso, a equipe está organizada da seguinte forma:<br></br>
+<br>• Scrum Master: [Ariane Moura].</br>
+<br>• Product Owner: [Raphael Rodrigues].</br>
+<br>• Equipe de Desenvolvimento: [Ariane Moura, Alexsander, Leticia, Raphael, Vinicius, Breno Marques, Marytom].</br>
+<br>• Equipe de Design: [Ariane Moura, Raphael Rodrigues].</br>
 
 Essa estrutura assegura que cada membro tenha um papel claro, promovendo assim a colaboração e alinhamento com os objetivos do projeto. O Scrum Master será responsável por facilitar o processo e remover obstáculos, enquanto o Product Owner definirá as prioridades do backlog e irá assegurar que as entregas atendam às expectativas dos stakeholders (Clientes). As equipes de desenvolvimento e design trabalharão em conjunto para implementar as funcionalidades e criar soluções visuais que atendam às necessidades do projeto.
 
