@@ -49,6 +49,8 @@ A divisão de papéis dentro de nossa equipe, que utilizará o método ágil SCR
 <br>• Product Owner: [Raphael Rodrigues].</br>
 <br>• Equipe de Desenvolvimento: [Ariane Moura, Alexsander, Leticia, Raphael, Vinicius, Breno Marques, Marytom].</br>
 <br>• Equipe de Design: [Ariane Moura, Raphael Rodrigues].</br>
+<br><br/>
+<br><br/>
 
 Essa estrutura assegura que cada membro tenha um papel claro, promovendo assim a colaboração e alinhamento com os objetivos do projeto. O Scrum Master será responsável por facilitar o processo e remover obstáculos, enquanto o Product Owner definirá as prioridades do backlog e irá assegurar que as entregas atendam às expectativas dos stakeholders (Clientes). As equipes de desenvolvimento e design trabalharão em conjunto para implementar as funcionalidades e criar soluções visuais que atendam às necessidades do projeto.
 
