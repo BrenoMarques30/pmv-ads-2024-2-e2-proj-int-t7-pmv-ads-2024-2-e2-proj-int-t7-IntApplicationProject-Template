@@ -35,7 +35,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
-## <span style="font-size: 20px;">Gerenciamento de Projeto</span>
+## <span style="font-size: 40px;">Gerenciamento de Projeto</span>
 
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM. Nós optamos por este método devido à sua flexibilidade, que nos permite adaptar rapidamente às mudanças nos requisitos, uma situação comum em projetos. O SCRUM se baseia em princípios iterativos e incrementais, permitindo entregas contínuas e a adaptação ao longo do processo (SCHWABER; SUTHERLAND, 2017). Além disso, ele favorece a realização de ciclos curtos de trabalho, possibilitando entregas frequentes de funcionalidades.
 
