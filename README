@@ -1,3 +1,8 @@
+A branch dev é o local onde a equipe trabalha ativamente nas novas funcionalidades e melhorias.
+Serve como um espaço para experimentação e desenvolvimento, permitindo que os desenvolvedores façam
+alterações sem afetar o código estável. Quando as funcionalidades estiverem prontas e testadas, elas
+podem ser movidas para a branch unstable para testes mais rigorosos.
+
 DEV
 CÓDIGO: Implementações em andamento e novas funcionalidades.
 DRAFTS: Versões preliminares de código ou propostas que ainda estão em desenvolvimento.
