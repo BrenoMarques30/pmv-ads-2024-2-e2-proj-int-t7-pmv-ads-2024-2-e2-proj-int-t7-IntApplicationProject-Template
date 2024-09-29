@@ -1,1 +1,9 @@
+A branch unstable SERÁ utilizada para integrar e validar novas funcionalidades e correções antes que sejam
+consideradas estáveis e prontas para serem mescladas na branch principal. Ela permite que a equipe teste
+as mudanças em um ambiente controlado, garantindo que bugs e problemas sejam identificados antes da liberação final.
 
+UNSTABLE
+CÓDIGOS: Alterações e funcionalidades que foram testadas, mas ainda podem conter bugs.
+TESTES: Testes realizados nas novas funcionalidades para identificar possíveis problemas.
+DOCUMENTAÇÃO: Notas sobre mudanças e informações sobre o que foi adicionado ou modificado.
+CHANGELOG: Registro de alterações e melhorias feitas, destacando novas funcionalidades e correções.
